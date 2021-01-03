@@ -10,12 +10,6 @@ A really simple and elegant looking birthday counter
 
 &nbsp;
 
-#### installation
-
-```sh
-git clone https://github.com/pavanjadhaw/birthday-counter
-```
-
 &nbsp;
 
 #### usage
@@ -26,7 +20,7 @@ replace name and birthdate
 ```js
 6   const config = {
 7     birthdate: 'Jan 29, 2020',
-8     name: 'Darlene'
+8     name: 'Anonymous'
 9   };
 ```
 
